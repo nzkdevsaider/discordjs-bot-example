@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-example",
+  "version": "1.0.0",
+  "description": "An basic example to run a bot for Discord using discord.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDevsaider/discord-bot-example.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Devsaider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDevsaider/discord-bot-example/issues"
+  },
+  "homepage": "https://github.com/MrDevsaider/discord-bot-example#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
